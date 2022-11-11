@@ -2,7 +2,18 @@
 
 <br>
 ### Technologies & Frameworks I have worked with : 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<p align="center">
+  Languages
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <br>
+  Frameworks
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <br>
+  Database
+  <br>
+  Tools
+</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjinseo&&show_icons=true&theme=buefy)
 
