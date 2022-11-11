@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [SungjinSeo](https://sungjinseo.github.io/resume/), a Backend Developer 🚀 from S.Korea.
 
+ <img align="right" alt="GIF" src="https://github.com/sungjinseo/image-repository/blob/master/intro/Frustrated_programmer.gif?raw=true" width="400" height="320" />
+
 ### Technologies & Frameworks I have worked with : 
 
 <p align="left">
