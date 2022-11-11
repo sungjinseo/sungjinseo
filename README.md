@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [SungjinSeo](https://sungjinseo.github.io/resume/), a Backend Developer 🚀 from S.Korea.
 
-<br>
 ### Technologies & Frameworks I have worked with : 
+
 <p align="center">
   Languages
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
