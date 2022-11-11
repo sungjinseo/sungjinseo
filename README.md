@@ -10,7 +10,8 @@
   Frameworks : 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <br>
-  Database
+  Database : 
+  <img src="https://img.shields.io/badge/SpringBoot-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <br>
   Tools
 </p>
