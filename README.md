@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [SungjinSeo](https://sungjinseo.github.io/resume/), a Backend Developer 🚀 from S.Korea.
 
- <img align="right" alt="GIF" src="https://github.com/sungjinseo/image-repository/blob/master/intro/Frustrated_programmer.gif?raw=true" width="400" height="320" />
-
+<!-- <img align="right" alt="GIF" src="https://github.com/sungjinseo/image-repository/blob/master/intro/Frustrated_programmer.gif?raw=true" width="400" height="320" />
+-->
 ### Technologies & Frameworks I have worked with : 
 
 <p align="left">
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
 </p>
-
 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjinseo&show_icons=true)
 
