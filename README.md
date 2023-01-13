@@ -25,8 +25,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjinseo&&show_icons=true&theme=buefy)
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjinseo&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjinseo&layout=compact&exclude_repo=sungjinseo.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
