@@ -19,9 +19,10 @@
   <strong>Cloud :</strong>
   <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <br>
+  <strong>Opensource Tools :</strong>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <strong>Tools :</strong>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
 </p>
 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjinseo&show_icons=true)
