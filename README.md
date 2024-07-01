@@ -21,6 +21,7 @@
   <br>
   <strong>Opensource Tools :</strong>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
+  <br>
   <strong>Tools :</strong>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 </p>
